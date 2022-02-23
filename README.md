@@ -1,6 +1,6 @@
 # Our Name
 
-> GenZTechie (GZT) #Genztechies
+> GenZTechie (GZT)
 
 # Website
 
