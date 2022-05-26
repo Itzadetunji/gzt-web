@@ -10,13 +10,13 @@
 
 > GenZTechies was created by teenagers who have a strong passion for technology. We strive
 > to use the tool of technology to make impact bit by bit by creating indigenous solutions
-> to problems, improving existing projects and helping each other.
+> to problems, improving existing projects and helping each other
 >
 > Our main aim is to connect technology inclined Teenagers across Nigeria to
-> share new ideas, accelerate innovation and connect to opportunities.
+> share new ideas, accelerate innovation and connect to opportunities
 >
 > In summary, we are Teenagers! but with a tint of class, passion and determination for
-> great things.
+> great things
 
 # Project - Website
 
